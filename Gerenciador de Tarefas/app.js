@@ -1,6 +1,5 @@
-const readline = require('node:readline').createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
+let array = [1, 3, 4, 9];
 
-var name = readline.question(`What's your name?`);
+let posi = array.indexOf(10);
+
+console.log(posi);
