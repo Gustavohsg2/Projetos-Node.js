@@ -1,0 +1,27 @@
+{
+  "pranchetas": [
+    {
+      "nome": "Gustavo",
+      "idade": 16,
+      "peso": 76,
+      "altura": 1.87,
+      "doença": [
+        "Gripe",
+        "Dor"
+      ],
+      "endereço": "Rua vinhedo",
+      "ações": {
+        "consultas": [],
+        "cirurgias": []
+      },
+      "contato": [
+        {
+          "Num_pai": 0,
+          "Num_mae": 0,
+          "email_pai": "",
+          "email_mae": ""
+        }
+      ]
+    }
+  ]
+}

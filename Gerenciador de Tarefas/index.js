@@ -1,9 +1,6 @@
 const input = require('readline-sync');
-const new_tarefa = require('./functions/new_tarefa');
-const editar = require('./functions/editar');
 const tabela = require('./functions/tabela');
 const opção = require('./functions/opção');
-const fs = require('fs');
 
 do{
     tabela();
